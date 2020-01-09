@@ -1,7 +1,7 @@
 package collection.com;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
+        import java.util.LinkedHashMap;
+        import java.util.Map;
 
 public class HashMapClass {
     public static void main(String[] args) {
